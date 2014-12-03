@@ -1,0 +1,70 @@
+#header {
+	height: 40px;
+  	background: -webkit-linear-gradient(left, black , #00D000); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(right, black, #00D000); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(right, black, #00D000); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(to right, black , #00D000); /* Standard syntax */
+
+  	color: #00D000;
+  	width: 100%;
+  	position: fixed;
+	right: 0;
+	top: 0;
+	z-index:10;
+}
+#headerContainer{
+	width: 970px;
+	margin: auto auto;
+}
+#headerContainer th{
+	padding-left: 15px;
+	padding-top: 10px;
+}
+#headerContainer a{
+	color:#FFFFFF;
+}
+.container{
+	margin-top: 40px;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.col-md-10{
+	position: fixed;
+	right: 0;
+	top: 100px;
+}
+.raw{
+	margin-left: 25px;
+	margin-top: 20px;
+	margin-right: 50px;
+	clear:both;
+}
+.model{
+	font-size: 18px;
+}
+.songs{
+	margin-top: 20px;
+	margin-right: 50px;
+	width: 300px;
+	height: 500px;
+	overflow: scroll;
+}
+.weather{
+	overflow: hidden;
+}
+.imageLeft{
+	float:left;
+}
+.imageText{
+	float:left;
+}
+.small{
+	font-weight: bold;
+}
+.inline{
+	display: inline;
+}

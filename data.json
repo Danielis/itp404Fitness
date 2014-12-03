@@ -1,0 +1,118 @@
+[
+	{ 
+		"id": 1,
+		"first": "Daniel Cantwell", 
+		"last": "Endurance",
+		 "Age": 21,
+		 "Weight": 180, 
+		 "mood": "Chill",
+		 "city": "Los Angeles",
+		 "activity":[
+		 	{
+		 		"runId": 1,
+		 		"date": "11/30/14",
+		 		"runDistance": 6,
+		 		"runTime": 40
+		 	},
+		 	{
+		 		"runId": 2,
+		 		"date": "11/31/14",
+		 		"runDistance": 6,
+		 		"runTime": 41
+		 	},
+		 	{
+		 		"runId": 3,
+		 		"date": "12/2/14",
+		 		"runDistance": 6,
+		 		"runTime": 42
+		 	}
+		 ] 
+	},
+	{ 
+		"id": 3,
+		"first": "Bad Runner", 
+		"last": "Fast and consistent",
+		 "Age": 21,
+		 "Weight": 200,
+		 "mood": "Dark", 
+		 "city": "San Fransisco",
+		 "activity":[
+		 	{
+		 		"runId": 1,
+		 		"date": "11/31/14",
+		 		"runDistance": 1,
+		 		"runTime": 4
+		 	},
+		 	{
+		 		"runId": 2,
+		 		"date": "12/1/14",
+		 		"runDistance": 1,
+		 		"runTime": 4
+		 	},
+		 	{
+		 		"runId": 1,
+		 		"date": "12/2/14",
+		 		"runDistance": 1,
+		 		"runTime": 4
+		 	}
+		 ] 
+	},
+	{ 
+		"id": 4,
+		"first": "Bad Runner", 
+		"last": "Endurance",
+		 "Age": 21,
+		 "Weight": 200,
+		 "mood": "Happy", 
+		 "city": "San Diego",
+		 "activity":[
+		 	{
+		 		"runId": 1,
+		 		"date": "11/31/14",
+		 		"runDistance": 3,
+		 		"runTime": 40
+		 	},
+		 	{
+		 		"runId": 2,
+		 		"date": "12/1/14",
+		 		"runDistance": 3,
+		 		"runTime": 40
+		 	},
+		 	{
+		 		"runId": 1,
+		 		"date": "12/2/14",
+		 		"runDistance": 3,
+		 		"runTime": 35
+		 	}
+		 ] 
+	},
+	{ 
+		"id": 2,
+		"first": "Daniel Silva", 
+		"last": "Consistency",
+		 "Age": 21,
+		 "Weight": 300,
+		 "mood": "Christmas", 
+		 "city": "London, UK",
+		 "activity":[
+		 	{
+		 		"runId": 1,
+		 		"date": "11/31/14",
+		 		"runDistance": 1,
+		 		"runTime": 10
+		 	},
+		 	{
+		 		"runId": 2,
+		 		"date": "12/1/14",
+		 		"runDistance": 1,
+		 		"runTime": 10
+		 	},
+		 	{
+		 		"runId": 1,
+		 		"date": "12/2/14",
+		 		"runDistance": 1,
+		 		"runTime": 9
+		 	}
+		 ] 
+	}
+]
